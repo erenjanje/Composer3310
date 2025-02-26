@@ -6,4 +6,4 @@ add_subdirectory(taban)
 
 target_link_libraries(composer3310 taban)
 
-target_include_directories(composer3310 PRIVATE "taban/src")
+target_include_directories(composer3310 PRIVATE "taban")
