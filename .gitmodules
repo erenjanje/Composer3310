@@ -1,3 +1,6 @@
 [submodule "src/arena"]
 	path = src/arena
 	url = https://github.com/erenjanje/SimpleArena
+[submodule "src/taban"]
+	path = src/taban
+	url = https://github.com/erenjanje/Taban
